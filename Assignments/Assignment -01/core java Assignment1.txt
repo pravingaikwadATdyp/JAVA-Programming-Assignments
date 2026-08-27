@@ -1,0 +1,7 @@
+JAVA ASSIGNMENT 01
+
+Q1. Write a Java program to check whether a number is prime.
+Q2. Write a Java program to reverse a number.
+Q3. Write a Java program to check whether a string is palindrome.
+Q4. Write a Java program to find the largest element in an array.
+Q5. Write a Java program to calculate factorial using recursion.
